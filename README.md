@@ -7,6 +7,7 @@ Olá, meu nome é Weberton, atuo no Assessor III na diretoria de crédito do Ban
 * Formação em Inteligência Artifical pela DSA.
 * Diversos cursos na Área de Data Science, Machine Learning e Deep Learning pela Coursera e Alura.
 
+Sou um entusiasta da utilização dos dados para tomada de decisão e criei esse repositório para apresentar alguns projetos que desenvolvi. 
 
 * [LinkedIn](https://www.linkedin.com/in/weberton-rodrigues-13706031/)
 
