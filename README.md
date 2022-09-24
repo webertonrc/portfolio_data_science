@@ -14,5 +14,5 @@ Sou um entusiasta da utilização dos dados para tomada de decisão e criei esse
 Projetos de Data Science:
 
 Classificação 
-* [Análise de Crédito](https://github.com/webertonrc/credit_analysis)
+* [Análise de Crédito](https://github.com/webertonrc/portfolio_data_science/tree/main/credit_analysis)
 * [Smoke Detection](https://github.com/webertonrc/portfolio_data_science/tree/main/smoke_detection_prediction)
