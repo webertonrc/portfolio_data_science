@@ -15,4 +15,4 @@ Projetos de Data Science:
 
 Classificação 
 * [Análise de Crédito](https://github.com/webertonrc/credit_analysis)
-* [Smoke Detection](https://github.com/webertonrc/smoke_detection_prediction)
+* [Smoke Detection](https://github.com/webertonrc/portfolio_data_science/tree/main/smoke_detection_prediction)
