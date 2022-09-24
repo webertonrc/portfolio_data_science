@@ -11,5 +11,8 @@ Sou um entusiasta da utilização dos dados para tomada de decisão e criei esse
 
 * [LinkedIn](https://www.linkedin.com/in/weberton-rodrigues-13706031/)
 
-Projetos de Data Science
+Projetos de Data Science:
+
+Classificação 
 * [Análise de Crédito](https://github.com/webertonrc/credit_analysis)
+* [Smoke Detection](https://github.com/webertonrc/smoke_detection_prediction)
