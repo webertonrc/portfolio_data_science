@@ -2,7 +2,7 @@
 
 Empregar algoritmos de Machine Learning no contexto instituições financeiras com dois conjuntos de dados: um relativo a aprovação de empréstimo e outro relativo a aprovação de cartão de crédito.
 
-**Fonte dos Dados:**
+# **Fonte dos Dados:** <h1>
 
 * **South German Credit Data Set**
 
@@ -21,7 +21,7 @@ O conjunto de dados possui 14 atributos sendo 6 numéricos e 8 categóricos. Hav
 
 O conjunto de dados está disponível no link: [Statlog (Australian Credit Approval) Data Set](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29)
 
-**Resultados:**
+# **Resultados:** <h1>
 
 Utilizamos a abordagem de validação cruzada aninhada (Nested Cross-Validation) em
 conjunto com a função RandomizedSearchCV para busca no espaço de hiperparâmetros e
