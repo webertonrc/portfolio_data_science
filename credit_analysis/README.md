@@ -11,6 +11,8 @@ Os dados são de uma amostra com 1 mil classificações de crédito (entre “bo
 O dataset corresponde a um conjunto de variáveis descrevendo aspectos do proponente de um empréstimo e as características da solicitação. Temos, além da variável objetivo risco_credito que utiliza 0 para risco bom ou 1 para risco ruim, 20 atributos sendo 3 variáveis numéricas e 17 variáveis categóricas.
 
 O conjunto de dados está disponível no link: [South German Credit Data Set](https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29)
+ 
+ ![título da imagem](G:\Meu Drive\Ciência de Dados\Pós Gradução - PUC\TCC\Imagens\validacao.jpg)
 
 
 * **Statlog (Australian Credit Approval) Data Set**
