@@ -1,5 +1,7 @@
 Objetivo:
+
 Empregar algoritmos de Machine Learning no contexto instituições financeiras com dois conjuntos de dados: um relativo a aprovação de empréstimo e outro relativo a aprovação de cartão de crédito.
+
 Fonte dos Dados:
 South German Credit Data Set
 Os dados são de uma amostra com 1 mil classificações de crédito (entre “bom” e “ruim”) coletados entre 1973 e 1975 de um grande banco do sul da Alemanha.
@@ -9,9 +11,10 @@ O conjunto de dados está disponível no link: [South German Credit Data Set](ht
 Statlog (Australian Credit Approval) Data Set
 Este conjunto de dados diz respeito a aprovação ou não de solicitações de cartão de crédito. Todos os nomes e valores originais foram disponibilizados com alterações para símbolos para fins de confidencialidade dos dados.
 O conjunto de dados possui 14 atributos sendo 6 numéricos e 8 categóricos. Havia valores ausentes, sendo que em 37 casos (5%) tinha-se um ou mais valores ausentes que foram substituídos pela moda do atributo, no caso de atributos categóricos, e pela média, no caso de atributo numérico.
-O conjunto de dados está disponível no link: [Statlog (Australian Credit Approval) Data Set(https://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29)
+O conjunto de dados está disponível no link: [Statlog (Australian Credit Approval) Data Set](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29)
 
 Resultados: 
+
 Utilizamos a abordagem de validação cruzada aninhada (Nested Cross-Validation) em
 conjunto com a função RandomizedSearchCV para busca no espaço de hiperparâmetros e
 avaliação dos modelos. A validação cruzada aninhada faz um melhor trabalho em garantir uma
