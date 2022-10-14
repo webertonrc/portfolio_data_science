@@ -26,6 +26,7 @@ medida de generalização mais robusta, confiável e que é mais próxima de com
 sairia em ambiente de produção. Na validação cruzada aninhada utiliza-se a validação cruzada
 interna para seleção dos hiperparâmetros e a validação cruzada externa para avaliar o
 desempenho do modelo preditivo.
+
 Quanto ao desempenho dos algoritmos entre si, no conjunto de dados Alemão o algoritmo de Regressão Logística apresentou os melhores resultados e no caso do conjunto de dados Australiano o algoritmo de Floresta Aleatória apresentou os melhores resultados
 
 
