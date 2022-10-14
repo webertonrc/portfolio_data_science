@@ -12,7 +12,7 @@ O dataset corresponde a um conjunto de variáveis descrevendo aspectos do propon
 
 O conjunto de dados está disponível no link: [South German Credit Data Set](https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29)
  
- ![título da imagem](https://github.com/webertonrc/portfolio_data_science/blob/main/credit_analysis/validacao.JPG)
+ ![Conjunto de dados UCI](https://github.com/webertonrc/portfolio_data_science/blob/main/credit_analysis/alemao%20uci.JPG)
 
 
 * **Statlog (Australian Credit Approval) Data Set**
@@ -22,6 +22,8 @@ Este conjunto de dados diz respeito a aprovação ou não de solicitações de c
 O conjunto de dados possui 14 atributos sendo 6 numéricos e 8 categóricos. Havia valores ausentes, sendo que em 37 casos (5%) tinha-se um ou mais valores ausentes que foram substituídos pela moda do atributo, no caso de atributos categóricos, e pela média, no caso de atributo numérico.
 
 O conjunto de dados está disponível no link: [Statlog (Australian Credit Approval) Data Set](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29)
+ 
+ ![Conjunto de dados UCI](https://github.com/webertonrc/portfolio_data_science/blob/main/credit_analysis/australian%20uci.JPG)
 
 # **Resultados:** <h1>
 
@@ -32,6 +34,10 @@ medida de generalização mais robusta, confiável e que é mais próxima de com
 sairia em ambiente de produção. Na validação cruzada aninhada utiliza-se a validação cruzada
 interna para seleção dos hiperparâmetros e a validação cruzada externa para avaliar o
 desempenho do modelo preditivo.
+ 
+  ![Resultado dataset alemão](https://github.com/webertonrc/portfolio_data_science/blob/main/credit_analysis/alemao.JPG)
+ 
+  ![Resultado dataset Australiano](https://github.com/webertonrc/portfolio_data_science/blob/main/credit_analysis/australian.JPG)
 
 Quanto ao desempenho dos algoritmos entre si, no conjunto de dados Alemão o algoritmo de Regressão Logística apresentou os melhores resultados e no caso do conjunto de dados Australiano o algoritmo de Floresta Aleatória apresentou os melhores resultados
 
