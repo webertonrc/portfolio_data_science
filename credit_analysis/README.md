@@ -12,7 +12,7 @@ O dataset corresponde a um conjunto de variáveis descrevendo aspectos do propon
 
 O conjunto de dados está disponível no link: [South German Credit Data Set](https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29)
  
- ![título da imagem](G:\Meu Drive\Ciência de Dados\Pós Gradução - PUC\TCC\Imagens\validacao.jpg)
+ ![título da imagem](G:/Meu Drive/Ciência de Dados/Pós Gradução - PUC/TCC/Imagens/validacao.jpg)
 
 
 * **Statlog (Australian Credit Approval) Data Set**
