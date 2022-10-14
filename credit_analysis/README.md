@@ -4,13 +4,13 @@ Empregar algoritmos de Machine Learning no contexto instituições financeiras c
 
 Fonte dos Dados:
 
-*South German Credit Data Set
+* South German Credit Data Set
 Os dados são de uma amostra com 1 mil classificações de crédito (entre “bom” e “ruim”) coletados entre 1973 e 1975 de um grande banco do sul da Alemanha.
 O dataset corresponde a um conjunto de variáveis descrevendo aspectos do proponente de um empréstimo e as características da solicitação. Temos, além da variável objetivo risco_credito que utiliza 0 para risco bom ou 1 para risco ruim, 20 atributos sendo 3 variáveis numéricas e 17 variáveis categóricas.
 O conjunto de dados está disponível no link: [South German Credit Data Set](https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29)
 
 
-*Statlog (Australian Credit Approval) Data Set
+* Statlog (Australian Credit Approval) Data Set
 Este conjunto de dados diz respeito a aprovação ou não de solicitações de cartão de crédito. Todos os nomes e valores originais foram disponibilizados com alterações para símbolos para fins de confidencialidade dos dados.
 O conjunto de dados possui 14 atributos sendo 6 numéricos e 8 categóricos. Havia valores ausentes, sendo que em 37 casos (5%) tinha-se um ou mais valores ausentes que foram substituídos pela moda do atributo, no caso de atributos categóricos, e pela média, no caso de atributo numérico.
 O conjunto de dados está disponível no link: [Statlog (Australian Credit Approval) Data Set](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29)
