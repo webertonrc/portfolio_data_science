@@ -1,6 +1,6 @@
 # Portfólio de Data Science
 
-Olá, meu nome é Weberton, atuo no Assessor III na diretoria de crédito do Banco do Brasil em Belo Horizonte-MG.
+Olá, meu nome é Weberton, atuo como Assessor III na diretoria de crédito do Banco do Brasil em Belo Horizonte-MG.
 
 * Graduação em Engenharia de Controle e Automação pela UFMG.
 * MBA em Data Science e Big Data pela PUC-MG.
@@ -16,3 +16,7 @@ Projetos de Data Science:
 Classificação 
 * [Análise de Crédito](https://github.com/webertonrc/portfolio_data_science/tree/main/credit_analysis)
 * [Smoke Detection](https://github.com/webertonrc/portfolio_data_science/tree/main/smoke_detection_prediction)
+
+Regressão 
+
+Clusterização 
