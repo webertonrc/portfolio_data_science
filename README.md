@@ -18,5 +18,6 @@ Classificação
 * [Smoke Detection](https://github.com/webertonrc/portfolio_data_science/tree/main/smoke_detection_prediction)
 
 Time Series
+* [Microsoft Stock](https://github.com/webertonrc/portfolio_data_science/tree/main/microsoft_stock)
 
 
