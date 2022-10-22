@@ -17,6 +17,6 @@ Classificação
 * [Análise de Crédito](https://github.com/webertonrc/portfolio_data_science/tree/main/credit_analysis)
 * [Smoke Detection](https://github.com/webertonrc/portfolio_data_science/tree/main/smoke_detection_prediction)
 
-Regressão 
+Time Series
 
-Clusterização 
+
