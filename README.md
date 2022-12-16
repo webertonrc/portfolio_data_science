@@ -21,4 +21,4 @@ Time Series
 * [Microsoft Stock](https://github.com/webertonrc/portfolio_data_science/tree/main/microsoft_stock)
 
 
-![](https://komarev.com/ghpvc/?username=webertonrc)
+![](https://komarev.com/ghpvc/?username=webertonrc@gmail.com)
